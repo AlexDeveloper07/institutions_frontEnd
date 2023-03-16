@@ -1,0 +1,1 @@
+export const INSTITUTIONS_API = process.env.REACT_APP_INSTITUTIONS_API;
